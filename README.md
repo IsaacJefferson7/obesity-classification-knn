@@ -36,7 +36,7 @@ Prever o nível de obesidade de uma pessoa (normal, sobrepeso, obeso, etc.) a pa
 ## 🔗 Autor
 
 Isaac Jefferson  
-[(http://www.linkedin.com/in/isaac-jefferson-s)]  
-[(https://github.com/IsaacJefferson7)]
+[[LinkedIn](http://www.linkedin.com/in/isaac-jefferson-s)]  
+[[GitHub](https://github.com/IsaacJefferson7)]
 
 ---
