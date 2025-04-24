@@ -3,7 +3,12 @@
 Este projeto de Ciência de Dados utiliza o dataset **Obesity Levels Dataset** do UCI Machine Learning Repository para prever o nível de obesidade de indivíduos com base em hábitos alimentares e estilo de vida. Utilizamos o algoritmo de classificação **KNN (K-Nearest Neighbors)** como modelo principal.
 
 ## 📁 Estrutura do Projeto
-obesity-classification-knn/ ├── data/ # Dados brutos e tratados ├── notebooks/ # Análises e modelagem em Jupyter Notebooks ├── outputs/ # Resultados e visualizações ├── src/ # Scripts Python reutilizáveis ├── .gitignore └── README.md
+obesity-classification-knn/ 
+├── data/ # Dados brutos e tratados
+├── notebooks/ # Análises e modelagem em Jupyter Notebooks
+├── outputs/ # Resultados e visualizações
+├── src/ # Scripts Python reutilizáveis
+├── .gitignore └── README.md
 
 ## 🧠 Objetivo
 
